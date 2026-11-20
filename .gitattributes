@@ -1,0 +1,9 @@
+# Git attributes
+* text=auto
+*.png binary
+*.ico binary
+*.pak binary
+*.dll binary
+*.bin binary
+*.dat binary
+*.asar binary

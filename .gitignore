@@ -1,0 +1,24 @@
+# Local backups
+*.backup
+*backup*
+resources/icons_backup/
+resources/app.asar.backup
+resources/icon.ico.backup
+resources/icon.png.backup
+resources/app-update.yml.backup
+
+# Executables over 100MB (GitHub limit: use GitHub Releases for Vortex.exe)
+Vortex.exe
+Kudu.exe
+
+
+# Temporary & cache
+*.log
+*.tmp
+*.bak
+test.asar
+
+# OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
