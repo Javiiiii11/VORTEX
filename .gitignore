@@ -22,3 +22,6 @@ test.asar
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+Vortex_running_old.exe
+*.old.exe
